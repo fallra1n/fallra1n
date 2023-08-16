@@ -11,7 +11,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-### Follow Me
+### Contact Me
 [![Telegram](https://img.shields.io/badge/-Telegram-091832?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/fall_raiin)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-091832?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/asadbek-tozhimukhammedov-12473a288/)
 
